@@ -1,0 +1,68 @@
+body{
+    text-align: justify;
+    color: #00B7AE;
+    background: url('../img/Background-01.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+strong {
+    color:#00B7AE;
+    font-family: 'Oswald Regular';
+}
+p {
+  color:whitesmoke;  
+}
+
+p.ridge {
+    border-style: ridge;
+    border-color: #00B7AE;
+    border-width: 3px; 
+    text-shadow:0 1px 1px rgba(0,0,0,.6);
+    transition: box-shadow .5s ease; 
+    padding: 10px;
+    background: rgba(0,0,0,0.7);
+}
+
+.lh-35{
+    line-height: 35px;
+}
+.lh-50{
+    line-height: 50px;
+}
+.lh-75{
+    line-height: 50px;
+}
+.lh-150{
+    line-height: 150px;
+}
+.f-20{
+    font-size: 20px;
+    font-family: Oswald Regular;
+    font-weight: normal;
+    color: whitesmoke;
+}
+.f-25{
+    font-size: 25px;
+    font-family: Oswald Regular;
+    font-weight: normal;
+    color: whitesmoke;
+}
+.f-30{
+    font-size: 30px;
+    font-family: Oswald Regular;
+    font-weight: bold;
+    color: #00b7ae;
+}
+.f-45{
+    font-size: 45px;
+    font-family: Oswald Regular;
+    font-weight: bold;
+    color: #00b7ae;
+}
+.img-300{
+    width: 300px !important;
+    height: 300px !important;
+}
+
+
